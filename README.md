@@ -16,8 +16,7 @@ This project is a Nest.js application that provides authentication functionaliti
 - JWT-based authentication
 - URL shortening with random string generation
 - MongoDB as the database
-- Prerequisites
-- Ensure you have the following installed:
+
 ## Prerequisites
 #### Ensure you have the following installed:
 - Node.js (v14 or later)
