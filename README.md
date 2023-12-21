@@ -59,17 +59,15 @@ This project is a Nest.js application that provides authentication functionaliti
     JWT_SECRET=your-secret-key
     ```
 
-    ## Usage
+## Usage
 
-1. Serve  **index.html** from **public** folder Manually
-
-2. Start the application:
+1. Start the application:
 
     ```bash
     yarn start:dev
     ```
 
-3. The application will be accessible at `http://localhost:3000`.
+2. The application will be accessible at `http://localhost:3000`.
 
 ## Endpoints
 
